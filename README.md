@@ -19,19 +19,11 @@ I'm currently an undergraduate student at Stockton University studying Computer 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 📚 I’m currently learning Web Application Engineering and Data Structures & Algorithms  
   
 
 - 🔍 Looking to expand my knowledge and find a passion project to work on  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
