@@ -18,7 +18,7 @@ I'm currently an undergraduate student at Stockton University studying Computer 
 <br/>  
 
 
-## Rapidfire  
+## About Me  
 - 📚 I’m currently learning Web Application Engineering and Data Structures & Algorithms  
   
 
@@ -29,7 +29,7 @@ I'm currently an undergraduate student at Stockton University studying Computer 
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
@@ -42,21 +42,7 @@ I'm currently an undergraduate student at Stockton University studying Computer 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tylermong&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylermong&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
+![tylermong's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tylermong&theme=dark&hide_border=false)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tylermong&&style=flat-square)  
   
@@ -65,6 +51,3 @@ I'm currently an undergraduate student at Stockton University studying Computer 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
