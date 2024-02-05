@@ -1,5 +1,5 @@
-## 👋 Hey, I'm Tyler Mong!  
-  
+## 👋 Hey, I'm Tyler!
+
 
 <a href="https://github.com/tylermong" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
