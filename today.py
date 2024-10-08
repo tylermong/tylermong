@@ -327,11 +327,11 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     tspan[52].firstChild.data = repo_data
     tspan[54].firstChild.data = contrib_data
     tspan[56].firstChild.data = commit_data
-    tspan[58].firstChild.data = star_data
-    tspan[60].firstChild.data = follower_data
-    tspan[62].firstChild.data = loc_data[2]
-    tspan[63].firstChild.data = loc_data[0] + '++'
-    tspan[64].firstChild.data = loc_data[1] + '--'
+    tspan[59].firstChild.data = loc_data[2]
+    tspan[60].firstChild.data = '+' + loc_data[0]
+    tspan[61].firstChild.data = '-' + loc_data[1]
+    tspan[62].firstChild.data = star_data
+    tspan[64].firstChild.data = follower_data
     f.write(svg.toxml('utf-8').decode('utf-8'))
     f.close()
 
