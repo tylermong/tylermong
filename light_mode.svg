@@ -53,9 +53,9 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">17</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
 <tspan x="370" y="330" class="keyColor">48</tspan>:
 <tspan x="370" y="350">——————</tspan>
-<tspan x="370" y="370" class="keyColor">891    </tspan>: <tspan class="valueColor">agrantnmac@gmail.com</tspan>
-<tspan x="370" y="390" class="keyColor">9</tspan>: <tspan class="valueColor">41,283</tspan>
-<tspan x="370" y="410" class="keyColor">+45,850</tspan>: <tspan class="valueColor">-4,567</tspan>
+<tspan x="370" y="370" class="keyColor">894    </tspan>: <tspan class="valueColor">agrantnmac@gmail.com</tspan>
+<tspan x="370" y="390" class="keyColor">41,286</tspan>: <tspan class="valueColor">+45,872</tspan>
+<tspan x="370" y="410" class="keyColor">-4,586</tspan>: <tspan class="valueColor">-4,567</tspan>
 <tspan x="370" y="450" class="keyColor">9</tspan>:
 <tspan x="370" y="470">45,828++</tspan>
 <tspan x="370" y="490" class="keyColor">5   </tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">48</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">869    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
