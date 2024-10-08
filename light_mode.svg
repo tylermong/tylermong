@@ -53,12 +53,12 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">17</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
 <tspan x="370" y="330" class="keyColor">48</tspan>:
 <tspan x="370" y="350">——————</tspan>
-<tspan x="370" y="370" class="keyColor">882    </tspan>: <tspan class="valueColor">agrantnmac@gmail.com</tspan>
+<tspan x="370" y="370" class="keyColor">885    </tspan>: <tspan class="valueColor">agrantnmac@gmail.com</tspan>
 <tspan x="370" y="390" class="keyColor">9</tspan>: <tspan class="valueColor">Andrew6rant</tspan>
 <tspan x="370" y="410" class="keyColor">5   </tspan>: <tspan class="valueColor">andrew6rant</tspan>
 <tspan x="370" y="450" class="keyColor">41,283</tspan>:
-<tspan x="370" y="470">45,800++</tspan>
-<tspan x="370" y="490" class="keyColor">4,517--</tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">48</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">869    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
+<tspan x="370" y="470">45,814++</tspan>
+<tspan x="370" y="490" class="keyColor">4,531--</tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">48</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">869    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
 <tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">5   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">41,287</tspan> (<tspan class="addColor">45,713++</tspan>, <tspan class="delColor">4,426--</tspan>)
 </text>
 
