@@ -323,15 +323,15 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     svg = minidom.parse(filename)
     f = open(filename, mode='w', encoding='utf-8')
     tspan = svg.getElementsByTagName('tspan')
-    tspan[30].firstChild.data = age_data
-    tspan[52].firstChild.data = repo_data
-    tspan[54].firstChild.data = contrib_data
-    tspan[56].firstChild.data = commit_data
-    tspan[58].firstChild.data = loc_data[2]
-    tspan[59].firstChild.data = '+' + loc_data[0]
-    tspan[60].firstChild.data = '-' + loc_data[1]
-    tspan[62].firstChild.data = star_data
-    tspan[64].firstChild.data = follower_data
+    tspan[27].firstChild.data = age_data
+    tspan[49].firstChild.data = repo_data
+    tspan[51].firstChild.data = contrib_data
+    tspan[53].firstChild.data = commit_data
+    tspan[55].firstChild.data = loc_data[2]
+    tspan[56].firstChild.data = '+' + loc_data[0]
+    tspan[57].firstChild.data = '-' + loc_data[1]
+    tspan[59].firstChild.data = star_data
+    tspan[61].firstChild.data = follower_data
     f.write(svg.toxml('utf-8').decode('utf-8'))
     f.close()
 
