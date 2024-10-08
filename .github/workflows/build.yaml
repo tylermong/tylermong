@@ -13,18 +13,22 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 1
+      
       - name: Get Python 3.8
         uses: actions/setup-python@v2
         with:
           python-version: '3.8'
+      
       - name: Configure pip cache
         uses: actions/cache@v2
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/cache/requirements.txt') }}
           restore-keys: ${{ runner.os }}-pip-
+      
       - name: Install dependencies
         run: python -m pip install -r cache/requirements.txt
+      
       - name: Debug environment variables
         run: |
           echo "USER_NAME: $USER_NAME"
@@ -32,11 +36,17 @@ jobs:
         env:
           USER_NAME: ${{ secrets.USER_NAME }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      - name: Check token scopes
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: python check_token_scopes.py
+      
       - name: Update README file
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
         run: python today.py
+      
       - name: Commit
         run: |-
           git add .
