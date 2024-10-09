@@ -11,29 +11,32 @@ text, tspan {white-space: pre;}
 <rect width="1095px" height="470px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">           ......................           </tspan>
-<tspan x="15" y="50">         ...........       ... ....         </tspan>
-<tspan x="15" y="70">       ...      ...                  .      </tspan>
-<tspan x="15" y="90">      ..         ..                  .      </tspan>
-<tspan x="15" y="110">     . .   ........  ..::^^^^^~~!!:.  .    </tspan>
-<tspan x="15" y="130">     ....:~~~77!~^^~!?JYY55PPGGGGG5!..:.   </tspan>
-<tspan x="15" y="150">     ....!5PGGGBBGGBBBGGGGGGGGGGGPP5~..    </tspan>
-<tspan x="15" y="170">     ...:?PGGGGGGBBBBGGGGGGGGGGGPPPP7:.    </tspan>
-<tspan x="15" y="190">     .:^~JPPGGGGGGGGGGGGGGPPPPPPPPP5?^.    </tspan>
-<tspan x="15" y="210">      ^!75PPPP5Y?777JY5555YJ?7!!7JJ5Y~:    </tspan>
-<tspan x="15" y="230">    ~7J7?PPP5YJ7~^^~!?555J?!~::~!7J557?7.  </tspan>
-<tspan x="15" y="250">   .JY5JJPPPP5J?7~77YPPGGYJ7!~~77JY55J5J^  </tspan>
-<tspan x="15" y="270">   .PPJY5PPGGGGGGPPPGGPGGP55PPPPPPPP5Y?Y^  </tspan>
-<tspan x="15" y="290">    YG5P55PPGGGGGPP5PPPGGPP5Y5PPPPP55YJJ.  </tspan>
-<tspan x="15" y="310">     !GGP55PPPP5Y??JYYY55YJJ7??JYYYY5Y7    </tspan>
-<tspan x="15" y="330">      .!775555Y7!?5P5J77!!!7??????JY~      </tspan>
-<tspan x="15" y="350">          ?555YJ5Y!!?JJ?7!!~^~?YYJY7       </tspan>
-<tspan x="15" y="370">          ^5555PPP5J??JJ??77??JYYYJ.       </tspan>
-<tspan x="15" y="390">          .P5Y55PPPP55YYJJJYY55YYY         </tspan>
-<tspan x="15" y="410">          .PPYJJY5PPPPPPPP5P55YYYY         </tspan>
-<tspan x="15" y="430">          :PPPY????JYJJJJJJ??JYY55.        </tspan>
-<tspan x="15" y="40">          ?PPPP5J??7777!!!!7?Y55Y5.         </tspan>  
+
+<tspan x="15" y="30">                    . .                     </tspan>
+<tspan x="15" y="50">                      .     .               </tspan>
+<tspan x="15" y="70">            .   .'",,,,:,,.                 </tspan>
+<tspan x="15" y="90">            . ,:,,,,;,,:,,,,"".             </tspan>
+<tspan x="15" y="110">            `"`'^,,"   ..      "           </tspan> 
+<tspan x="15" y="130">                    . .1[-Qm@W  `.         </tspan> 
+<tspan x="15" y="150">          .  @@@@@@@@@@@@@@@@@@ .          </tspan> 
+<tspan x="15" y="170">         .. -@*dpd$@Mam0YXj/xz@  .         </tspan> 
+<tspan x="15" y="190">            <@vmb@@@Wkmw*@@@@B@.           </tspan> 
+<tspan x="15" y="210">           ~$knJJJ  .`;!I  :, hC           </tspan> 
+<tspan x="15" y="230">          #ZZpc     lbB(..    o@m          </tspan> 
+<tspan x="15" y="250">         Oc 0CB@@@@@@hbph@@@@@wC<          </tspan> 
+<tspan x="15" y="270">        ..+YwJzX@@bkZpB@$0h@b*nn`'         </tspan> 
+<tspan x="15" y="290">           lffx/+ .;. :`   .  (            </tspan> 
+<tspan x="15" y="310">              Zv "@@#o, >11cn>>            </tspan> 
+<tspan x="15" y="330">              rQBdz  `{i. inr              </tspan> 
+<tspan x="15" y="350">              C]CB@bkC1_(dOwx.             </tspan> 
+<tspan x="15" y="370">              c} >w@@@@@$BQ{f              </tspan> 
+<tspan x="15" y="390">              xX0       . )C1              </tspan> 
+<tspan x="15" y="410">            ..cXZhi.<][-{ZWxrI             </tspan> 
+<tspan x="15" y="430">          . @@r/nYho]}rfx{v()#@ .          </tspan> 
+<tspan x="15" y="450">        .      .    .            .         </tspan>   
 </text>
+
+
 
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30">tyler@mong</tspan>
