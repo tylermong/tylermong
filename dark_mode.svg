@@ -40,7 +40,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="30">tyler@mong</tspan>
 <tspan x="370" y="50">——————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10/11, Arch, Android 14 (One UI 6.1)</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 7 months, 11 days</tspan>
+<tspan x="370" y="90" class="keyColor">20 years, 7 months, 11 days</tspan>: <tspan class="valueColor">20 years, 7 months, 11 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.94.1, IntelliJ IDEA 2021.2.1</tspan>
@@ -52,10 +52,10 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="310" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">tylermong</tspan>
 <tspan x="370" y="350" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="370">——————</tspan>
-<tspan x="370" y="390" class="keyColor">Repos</tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">48</tspan>}
-<tspan x="370" y="410" class="keyColor">Commmits</tspan>: <tspan class="valueColor">904    </tspan>
-<tspan x="370" y="430" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">41,283</tspan> (<tspan class="addColor">+45,973</tspan>, <tspan class="delColor">-4,690</tspan>)
-<tspan x="370" y="450" class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
-<tspan x="370" y="470" class="keyColor">Followers</tspan>: <tspan class="valueColor">5   </tspan>
+<tspan x="370" y="390" class="keyColor">17</tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">48</tspan>: <tspan class="valueColor">48</tspan>}
+<tspan x="370" y="410" class="keyColor">912    </tspan>: <tspan class="valueColor">904    </tspan>
+<tspan x="370" y="430" class="keyColor">41,283</tspan>: <tspan class="valueColor">+46,066</tspan> (<tspan class="addColor">-4,783</tspan>, <tspan class="delColor">-4,690</tspan>)
+<tspan x="370" y="450" class="keyColor">9</tspan>: <tspan class="valueColor">9</tspan>
+<tspan x="370" y="470" class="keyColor">5   </tspan>: <tspan class="valueColor">5   </tspan>
 </text>
 </svg>
