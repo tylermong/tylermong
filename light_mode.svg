@@ -11,55 +11,52 @@ text, tspan {white-space: pre;}
 <rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
 
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">            ;;,, ,;,|g;~,,                      </tspan>
-<tspan x="15" y="50">         ,g@@@@@@l&amp;$$$@|,w$$@gy,            </tspan>
-<tspan x="15" y="70">        $@@@@@@@@@@$@@@@@@@@$$MW$k              </tspan>
-<tspan x="15" y="90">       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$            </tspan>
-<tspan x="15" y="110">     g@llM**'''||%@@@@@$@@$@@@@@@@L$&amp;      </tspan>
-<tspan x="15" y="130">   @$&amp;$F         ''T%M$@@@@@@@@@@@$@$@     </tspan>
-<tspan x="15" y="150">  @@@@F              ']@@@@@@$$@$@@@@          </tspan>
-<tspan x="15" y="170">  @@@$L               |$@@@$$l$@@@@$F          </tspan>
-<tspan x="15" y="190"> ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@           </tspan>
-<tspan x="15" y="210">  %$@@@$}',,gg@||@@@@l@g@ggg|l$&amp;$@@$       </tspan>
-<tspan x="15" y="230">  ]@@@@@'&quot;*TTTTT'F  ]Wl|||''&quot;'$]@@@@ </tspan>
-<tspan x="15" y="250">   $$@M$       ,#    ]gg,,,,,.r'$@$            </tspan>
-<tspan x="15" y="270">    &amp;$L        ' ,, ,,,'T''`    $$L        </tspan>
-<tspan x="15" y="290">     lL         T&quot;||||!   `-    l&quot;'  </tspan>
-<tspan x="15" y="310">     ' |        '||l||||&quot;|L|  L `         </tspan>
-<tspan x="15" y="330">      ''   '|L++=*****&quot;&quot;*&quot;||` L|</tspan>
-<tspan x="15" y="350">        |           ,,      |||F               </tspan>
-<tspan x="15" y="370">        '         |||||||| ||l$                </tspan>
-<tspan x="15" y="390">          !                |l&amp;L            </tspan>
-<tspan x="15" y="410">           '!,       |||,||@M|L                </tspan>
-<tspan x="15" y="430">            ||l&amp;$@$$@$$$@$MT|||            </tspan>
-<tspan x="15" y="450">         |    |||lll$$llll|||||L               </tspan>
-<tspan x="15" y="470">    ,;y@        ||||||l||@|||||l               </tspan>
-<tspan x="15" y="490">,g$@$$$@         |||||||||||||||| $g,          </tspan>
-<tspan x="15" y="510">$$$$$$$$@    |    |||||||||||||| |$$@g         </tspan>
+<tspan x="15" y="30">         ,g@@@@@@l&amp;$$$@|,w$$@gy,            </tspan>
+<tspan x="15" y="50">        $@@@@@@@@@@$@@@@@@@@$$MW$k              </tspan>
+<tspan x="15" y="70">       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$            </tspan>
+<tspan x="15" y="90">     g@llM**'''||%@@@@@$@@$@@@@@@@L$&amp;      </tspan>
+<tspan x="15" y="110">   @$&amp;$F         ''T%M$@@@@@@@@@@@$@$@     </tspan>
+<tspan x="15" y="130">  @@@@F              ']@@@@@@$$@$@@@@          </tspan>
+<tspan x="15" y="150">  @@@$L               |$@@@$$l$@@@@$F          </tspan>
+<tspan x="15" y="170"> ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@           </tspan>
+<tspan x="15" y="190">  %$@@@$}',,gg@||@@@@l@g@ggg|l$&amp;$@@$       </tspan>
+<tspan x="15" y="210">  ]@@@@@'&quot;*TTTTT'F  ]Wl|||''&quot;'$]@@@@ </tspan>
+<tspan x="15" y="230">   $$@M$       ,#    ]gg,,,,,.r'$@$            </tspan>
+<tspan x="15" y="250">    &amp;$L        ' ,, ,,,'T''`    $$L        </tspan>
+<tspan x="15" y="270">     lL         T&quot;||||!   `-    l&quot;'  </tspan>
+<tspan x="15" y="290">     ' |        '||l||||&quot;|L|  L `         </tspan>
+<tspan x="15" y="310">      ''   '|L++=*****&quot;&quot;*&quot;||` L|</tspan>
+<tspan x="15" y="330">        |           ,,      |||F               </tspan>
+<tspan x="15" y="350">        '         |||||||| ||l$                </tspan>
+<tspan x="15" y="370">          !                |l&amp;L            </tspan>
+<tspan x="15" y="390">           '!,       |||,||@M|L                </tspan>
+<tspan x="15" y="410">            ||l&amp;$@$$@$$$@$MT|||            </tspan>
+<tspan x="15" y="430">         |    |||lll$$llll|||||L               </tspan>
+<tspan x="15" y="450">    ,;y@        ||||||l||@|||||l               </tspan>
+<tspan x="15" y="470">,g$@$$$@         |||||||||||||||| $g,          </tspan>
 </text>
 
-<text x="370" y="30" fill="#24292f">
-<tspan x="370" y="30">andrew@grant</tspan>
+<text x="370" y="30" fill="#c9d1d9">
+<tspan x="370" y="30">tyler@mong</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">20 years, 7 months, 11 days</tspan>: <tspan class="valueColor">20 years, 7 months, 11 days</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 7 months, 10 days</tspan>
-<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Rochester Institute of Technology</tspan><tspan class="commentColor"> #RIT</tspan>
-<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Electrical and Computer Engineering Technology</tspan><tspan class="commentColor"> #CPET</tspan>
-<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA 2021.2.1, VSCode 1.64.0</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, JavaScript</tspan>
-<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
-<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
-<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">17</tspan>: <tspan class="valueColor">17</tspan>
-<tspan x="370" y="290" class="keyColor">48</tspan>.<tspan class="keyColor">48</tspan>: <tspan class="valueColor">912    </tspan>
-<tspan x="370" y="330" class="keyColor">927    </tspan>:
-<tspan x="370" y="350">41,283</tspan>
-<tspan x="370" y="370" class="keyColor">41,283</tspan>: <tspan class="valueColor">+46,161</tspan>
-<tspan x="370" y="390" class="keyColor">-4,878</tspan>: <tspan class="valueColor">9</tspan>
-<tspan x="370" y="410" class="keyColor">9</tspan>: <tspan class="valueColor">5   </tspan>
-<tspan x="370" y="450" class="keyColor">5   </tspan>:
-<tspan x="370" y="470">45,828++</tspan>
-<tspan x="370" y="490" class="keyColor">5   </tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">48</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">869    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">5   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">41,287</tspan> (<tspan class="addColor">45,713++</tspan>, <tspan class="delColor">4,426--</tspan>)
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10/11, Arch Linux, Android 14 (One UI 6.1)</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 7 months, 11 days</tspan>
+<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
+<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
+<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.94.1, IntelliJ IDEA 2024.2.3</tspan>
+<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">HTML, CSS/Tailwind CSS, Javascript/TypeScript, React/Next.JS</tspan>
+<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Backend</tspan>: <tspan class="valueColor">Java, Python, C++</tspan>
+<tspan x="370" y="250" class="keyColor">Contact</tspan>:
+<tspan x="370" y="270">——————</tspan>
+<tspan x="370" y="290" class="keyColor">Email</tspan>: <tspan class="valueColor">tylermong28@gmail.com</tspan>
+<tspan x="370" y="310" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">tylermong</tspan>
+<tspan x="370" y="350" class="keyColor">GitHub Stats</tspan>:
+<tspan x="370" y="370">——————</tspan>
+<tspan x="370" y="390" class="keyColor">Repositories</tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">48</tspan>}
+<tspan x="370" y="410" class="keyColor">Commits</tspan>: <tspan class="valueColor">927    </tspan>
+<tspan x="370" y="430" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">41,283</tspan> (<tspan class="addColor">+46,161</tspan>, <tspan class="delColor">-4,878</tspan>)
+<tspan x="370" y="450" class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
+<tspan x="370" y="470" class="keyColor">Followers</tspan>: <tspan class="valueColor">5   </tspan>
 </text>
 
 </svg>
