@@ -51,10 +51,10 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
 <tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">17</tspan>: <tspan class="valueColor">17</tspan>
 <tspan x="370" y="290" class="keyColor">48</tspan>.<tspan class="keyColor">48</tspan>: <tspan class="valueColor">912    </tspan>
-<tspan x="370" y="330" class="keyColor">921    </tspan>:
+<tspan x="370" y="330" class="keyColor">924    </tspan>:
 <tspan x="370" y="350">41,283</tspan>
-<tspan x="370" y="370" class="keyColor">41,283</tspan>: <tspan class="valueColor">+46,134</tspan>
-<tspan x="370" y="390" class="keyColor">-4,851</tspan>: <tspan class="valueColor">9</tspan>
+<tspan x="370" y="370" class="keyColor">41,283</tspan>: <tspan class="valueColor">+46,147</tspan>
+<tspan x="370" y="390" class="keyColor">-4,864</tspan>: <tspan class="valueColor">9</tspan>
 <tspan x="370" y="410" class="keyColor">9</tspan>: <tspan class="valueColor">5   </tspan>
 <tspan x="370" y="450" class="keyColor">5   </tspan>:
 <tspan x="370" y="470">45,828++</tspan>
