@@ -53,8 +53,8 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="350" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="370">——————</tspan>
 <tspan x="370" y="390" class="keyColor">17</tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">48</tspan>: <tspan class="valueColor">48</tspan>}
-<tspan x="370" y="410" class="keyColor">912    </tspan>: <tspan class="valueColor">904    </tspan>
-<tspan x="370" y="430" class="keyColor">41,283</tspan>: <tspan class="valueColor">+46,066</tspan> (<tspan class="addColor">-4,783</tspan>, <tspan class="delColor">-4,690</tspan>)
+<tspan x="370" y="410" class="keyColor">912    </tspan>: <tspan class="valueColor">915    </tspan>
+<tspan x="370" y="430" class="keyColor">41,283</tspan>: <tspan class="valueColor">41,283</tspan> (<tspan class="addColor">+46,093</tspan>, <tspan class="delColor">-4,810</tspan>)
 <tspan x="370" y="450" class="keyColor">9</tspan>: <tspan class="valueColor">9</tspan>
 <tspan x="370" y="470" class="keyColor">5   </tspan>: <tspan class="valueColor">5   </tspan>
 </text>
