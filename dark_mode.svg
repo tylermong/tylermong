@@ -11,7 +11,6 @@ text, tspan {white-space: pre;}
 <rect width="1095px" height="470px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-
 <tspan x="15" y="30">                    . .                     </tspan>
 <tspan x="15" y="50">                      .     .               </tspan>
 <tspan x="15" y="70">            .   .'",,,,:,,.                 </tspan>
@@ -35,8 +34,6 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="430">          . @@r/nYho]}rfx[v()#@ .          </tspan> 
 <tspan x="15" y="450">        .      .    .            .         </tspan>   
 </text>
-
-
 
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30">tyler@mong</tspan>
