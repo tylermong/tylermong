@@ -41,7 +41,7 @@ text, tspan {white-space: pre;}
 <text x="370" y="30" fill="#24292f">
 <tspan x="370" y="30">andrew@grant</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">20 years, 7 months, 10 days</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
+<tspan x="370" y="70" class="keyColor">20 years, 7 months, 11 days</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 7 months, 10 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Rochester Institute of Technology</tspan><tspan class="commentColor"> #RIT</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Electrical and Computer Engineering Technology</tspan><tspan class="commentColor"> #CPET</tspan>
@@ -50,10 +50,10 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
 <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
 <tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">17</tspan>: <tspan class="valueColor">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="370" y="290" class="keyColor">48</tspan>.<tspan class="keyColor">17</tspan>: <tspan class="valueColor">904    </tspan>
+<tspan x="370" y="290" class="keyColor">48</tspan>.<tspan class="keyColor">17</tspan>: <tspan class="valueColor">909    </tspan>
 <tspan x="370" y="330" class="keyColor">48</tspan>:
 <tspan x="370" y="350">41,283</tspan>
-<tspan x="370" y="370" class="keyColor">+45,973</tspan>: <tspan class="valueColor">-4,690</tspan>
+<tspan x="370" y="370" class="keyColor">+46,014</tspan>: <tspan class="valueColor">-4,731</tspan>
 <tspan x="370" y="390" class="keyColor">41,286</tspan>: <tspan class="valueColor">9</tspan>
 <tspan x="370" y="410" class="keyColor">-4,602</tspan>: <tspan class="valueColor">5   </tspan>
 <tspan x="370" y="450" class="keyColor">9</tspan>:

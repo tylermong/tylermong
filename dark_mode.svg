@@ -13,9 +13,9 @@ text, tspan {white-space: pre;}
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">                    . .                     </tspan>
 <tspan x="15" y="50">                      .     .               </tspan>
-<tspan x="15" y="70">            .   .'",,,,:,,.                 </tspan>
-<tspan x="15" y="90">            . ,:,,,,;,,:,,,,"".             </tspan>
-<tspan x="15" y="110">            `"`'^,,"   ..      "           </tspan> 
+<tspan x="15" y="70">            .   .'&quot;,,,,:,,.                 </tspan>
+<tspan x="15" y="90">            . ,:,,,,;,,:,,,,&quot;&quot;.             </tspan>
+<tspan x="15" y="110">            `&quot;`'^,,&quot;   ..      &quot;           </tspan> 
 <tspan x="15" y="130">                    . .1[-Qm@W  `.         </tspan> 
 <tspan x="15" y="150">          .  @@@@@@@@@@@@@@@@@@ .          </tspan> 
 <tspan x="15" y="170">         .. -@*dpd$@Mam0YXj/xz@  .         </tspan> 
@@ -25,7 +25,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="250">         Oc 0CB@@@@@@hbph@@@@@wC[          </tspan> 
 <tspan x="15" y="270">        ..+YwJzX@@bkZpB@$0h@b*nn`'         </tspan> 
 <tspan x="15" y="290">           lffx/+ .;. :`   .  [            </tspan> 
-<tspan x="15" y="310">              Zv "@@#o, ]11cn]]            </tspan> 
+<tspan x="15" y="310">              Zv &quot;@@#o, ]11cn]]            </tspan> 
 <tspan x="15" y="330">              rQBdz  `{i. inr              </tspan> 
 <tspan x="15" y="350">              C]CB@bkC1_[dOwx.             </tspan> 
 <tspan x="15" y="370">              c} ]w@@@@@$BQ[f              </tspan> 
@@ -39,7 +39,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="30">tyler@mong</tspan>
 <tspan x="370" y="50">——————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10/11, Arch, Android 14 (One UI 6.1)</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 7 months, 10 days</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 7 months, 11 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.94.1, IntelliJ IDEA 2021.2.1</tspan>
@@ -52,8 +52,8 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="330" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="350">——————</tspan>
 <tspan x="370" y="370" class="keyColor">Repos</tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">48</tspan>}
-<tspan x="370" y="390" class="keyColor">Commmits</tspan>: <tspan class="valueColor">904    </tspan>
-<tspan x="370" y="410" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">41,283</tspan> (<tspan class="addColor">+45,973</tspan>, <tspan class="delColor">-4,690</tspan>)
+<tspan x="370" y="390" class="keyColor">Commmits</tspan>: <tspan class="valueColor">909    </tspan>
+<tspan x="370" y="410" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">41,283</tspan> (<tspan class="addColor">+46,014</tspan>, <tspan class="delColor">-4,731</tspan>)
 <tspan x="370" y="430" class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
 <tspan x="370" y="450" class="keyColor">Followers</tspan>: <tspan class="valueColor">5   </tspan>
 </text>
