@@ -40,7 +40,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="30">tyler@mong</tspan>
 <tspan x="370" y="50">——————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10/11, Arch Linux, Android 14 (One UI 6.1)</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 8 months, 3 days</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 8 months, 4 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.94.1, IntelliJ IDEA 2024.2.3</tspan>
@@ -53,9 +53,9 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="350" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="370">——————</tspan>
 <tspan x="370" y="390" class="keyColor">Repositories</tspan>: <tspan class="valueColor">18</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">50</tspan>}
-<tspan x="370" y="410" class="keyColor">Commits</tspan>: <tspan class="valueColor">1,086  </tspan>
-<tspan x="370" y="430" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">54,077</tspan> (<tspan class="addColor">+69,192</tspan>, <tspan class="delColor">-15,115</tspan>)
+<tspan x="370" y="410" class="keyColor">Commits</tspan>: <tspan class="valueColor">1,088  </tspan>
+<tspan x="370" y="430" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">57,543</tspan> (<tspan class="addColor">+73,339</tspan>, <tspan class="delColor">-15,796</tspan>)
 <tspan x="370" y="450" class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
-<tspan x="370" y="470" class="keyColor">Followers</tspan>: <tspan class="valueColor">5   </tspan>
+<tspan x="370" y="470" class="keyColor">Followers</tspan>: <tspan class="valueColor">6   </tspan>
 </text>
 </svg>
