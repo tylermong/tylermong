@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1100px" height="510px" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1100px" height="510px" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -8,8 +9,10 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="730px" height="490px" fill="#161b22" rx="15"/>
+<!-- Centered rectangle -->
+<rect x="185" width="730px" height="490px" fill="#161b22" rx="15"/>
 
+<!-- Filler tspans for today.py logic -->
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30"/>
 <tspan x="15" y="50"/>
@@ -36,26 +39,27 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="470"/>
 </text>
   
-<text x="15" y="30" fill="#c9d1d9">
-<tspan x="15" y="30">tyler@mong</tspan>
-<tspan x="15" y="50">——————</tspan>
-<tspan x="15" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10/11, Arch Linux, Android 14 (One UI 6.1)</tspan>
-<tspan x="15" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 11 months, 25 days</tspan>
-<tspan x="15" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
-<tspan x="15" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
-<tspan x="15" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.94.1, IntelliJ IDEA 2024.2.3</tspan>
-<tspan x="15" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">HTML, CSS/Tailwind CSS, Javascript/TypeScript, React/Next.JS</tspan>
-<tspan x="15" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Backend</tspan>: <tspan class="valueColor">Java, Python, C++</tspan>
-<tspan x="15" y="250" class="keyColor">Contact</tspan>:
-<tspan x="15" y="270">——————</tspan>
-<tspan x="15" y="290" class="keyColor">Email</tspan>: <tspan class="valueColor">tylermong28@gmail.com</tspan>
-<tspan x="15" y="310" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">tylermong</tspan>
-<tspan x="15" y="350" class="keyColor">GitHub Stats</tspan>:
-<tspan x="15" y="370">——————</tspan>
-<tspan x="15" y="390" class="keyColor">Repositories</tspan>: <tspan class="valueColor">27</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">64</tspan>}
-<tspan x="15" y="410" class="keyColor">Commits</tspan>: <tspan class="valueColor">1,481  </tspan>
-<tspan x="15" y="430" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">125,224</tspan> (<tspan class="addColor">+149,072</tspan>, <tspan class="delColor">-23,848</tspan>)
-<tspan x="15" y="450" class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
-<tspan x="15" y="470" class="keyColor">Followers</tspan>: <tspan class="valueColor">6   </tspan>
+<!-- Visible content -->
+<text x="200" y="30" fill="#c9d1d9">
+<tspan x="200" y="30">tyler@mong</tspan>
+<tspan x="200" y="50">——————</tspan>
+<tspan x="200" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10/11, Arch Linux, Android 14 (One UI 6.1)</tspan>
+<tspan x="200" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 11 months, 25 days</tspan>
+<tspan x="200" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
+<tspan x="200" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
+<tspan x="200" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.94.1, IntelliJ IDEA 2024.2.3</tspan>
+<tspan x="200" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">HTML, CSS/Tailwind CSS, Javascript/TypeScript, React/Next.JS</tspan>
+<tspan x="200" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Backend</tspan>: <tspan class="valueColor">Java, Python, C++</tspan>
+<tspan x="200" y="250" class="keyColor">Contact</tspan>:
+<tspan x="200" y="270">——————</tspan>
+<tspan x="200" y="290" class="keyColor">Email</tspan>: <tspan class="valueColor">tylermong28@gmail.com</tspan>
+<tspan x="200" y="310" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">tylermong</tspan>
+<tspan x="200" y="350" class="keyColor">GitHub Stats</tspan>:
+<tspan x="200" y="370">——————</tspan>
+<tspan x="200" y="390" class="keyColor">Repositories</tspan>: <tspan class="valueColor">27</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">64</tspan>}
+<tspan x="200" y="410" class="keyColor">Commits</tspan>: <tspan class="valueColor">1,481  </tspan>
+<tspan x="200" y="430" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">125,224</tspan> (<tspan class="addColor">+149,072</tspan>, <tspan class="delColor">-23,848</tspan>)
+<tspan x="200" y="450" class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
+<tspan x="200" y="470" class="keyColor">Followers</tspan>: <tspan class="valueColor">6   </tspan>
 </text>
 </svg>
