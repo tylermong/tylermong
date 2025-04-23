@@ -43,7 +43,7 @@ text, tspan {white-space: pre;}
 <tspan x="200" y="30">tyler@mong</tspan>
 <tspan x="200" y="50">——————</tspan>
 <tspan x="200" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10/11, Arch Linux, Android 14 (One UI 6.1)</tspan>
-<tspan x="200" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 1 month, 25 days</tspan>
+<tspan x="200" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 1 month, 26 days</tspan>
 <tspan x="200" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
 <tspan x="200" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
 <tspan x="200" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.98.2, IntelliJ IDEA 2024.3.4.1</tspan>
@@ -56,8 +56,8 @@ text, tspan {white-space: pre;}
 <tspan x="200" y="350" class="keyColor">GitHub Stats</tspan>:
 <tspan x="200" y="370">——————</tspan>
 <tspan x="200" y="390" class="keyColor">Repositories</tspan>: <tspan class="valueColor">32</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">69</tspan>}
-<tspan x="200" y="410" class="keyColor">Commits</tspan>: <tspan class="valueColor">2,169  </tspan>
-<tspan x="200" y="430" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">182,136</tspan> (<tspan class="addColor">+209,814</tspan>, <tspan class="delColor">-27,678</tspan>)
+<tspan x="200" y="410" class="keyColor">Commits</tspan>: <tspan class="valueColor">2,189  </tspan>
+<tspan x="200" y="430" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">182,472</tspan> (<tspan class="addColor">+210,245</tspan>, <tspan class="delColor">-27,773</tspan>)
 <tspan x="200" y="450" class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
 <tspan x="200" y="470" class="keyColor">Followers</tspan>: <tspan class="valueColor">7   </tspan>
 </text>
