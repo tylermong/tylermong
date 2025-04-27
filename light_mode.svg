@@ -8,33 +8,7 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="1095px" height="490px" fill="#f6f8fa" rx="15"/>
-
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">         ,g@@@@@@l&amp;$$$@|,w$$@gy,            </tspan>
-<tspan x="15" y="50">        $@@@@@@@@@@$@@@@@@@@$$MW$k              </tspan>
-<tspan x="15" y="70">       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$            </tspan>
-<tspan x="15" y="90">     g@llM**'''||%@@@@@$@@$@@@@@@@L$&amp;      </tspan>
-<tspan x="15" y="110">   @$&amp;$F         ''T%M$@@@@@@@@@@@$@$@     </tspan>
-<tspan x="15" y="130">  @@@@F              ']@@@@@@$$@$@@@@          </tspan>
-<tspan x="15" y="150">  @@@$L               |$@@@$$l$@@@@$F          </tspan>
-<tspan x="15" y="170"> ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@           </tspan>
-<tspan x="15" y="190">  %$@@@$}',,gg@||@@@@l@g@ggg|l$&amp;$@@$       </tspan>
-<tspan x="15" y="210">  ]@@@@@'&quot;*TTTTT'F  ]Wl|||''&quot;'$]@@@@ </tspan>
-<tspan x="15" y="230">   $$@M$       ,#    ]gg,,,,,.r'$@$            </tspan>
-<tspan x="15" y="250">    &amp;$L        ' ,, ,,,'T''`    $$L        </tspan>
-<tspan x="15" y="270">     lL         T&quot;||||!   `-    l&quot;'  </tspan>
-<tspan x="15" y="290">     ' |        '||l||||&quot;|L|  L `         </tspan>
-<tspan x="15" y="310">      ''   '|L++=*****&quot;&quot;*&quot;||` L|</tspan>
-<tspan x="15" y="330">        |           ,,      |||F               </tspan>
-<tspan x="15" y="350">        '         |||||||| ||l$                </tspan>
-<tspan x="15" y="370">          !                |l&amp;L            </tspan>
-<tspan x="15" y="390">           '!,       |||,||@M|L                </tspan>
-<tspan x="15" y="410">            ||l&amp;$@$$@$$$@$MT|||            </tspan>
-<tspan x="15" y="430">         |    |||lll$$llll|||||L               </tspan>
-<tspan x="15" y="450">    ,;y@        ||||||l||@|||||l               </tspan>
-<tspan x="15" y="470">,g$@$$$@         |||||||||||||||| $g,          </tspan>
-</text>
+<rect x="185" width="730px" height="490px" fill="#161b22" rx="15"/>
 
 <text x="370" y="30" fill="#24292f">
 <tspan x="370" y="30">tyler@mong</tspan>
@@ -43,7 +17,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 1 month, 30 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
-<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.94.1, IntelliJ IDEA 2024.2.3</tspan>
+<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.99.3, IntelliJ IDEA 2025.1</tspan>
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">HTML, CSS/Tailwind CSS, Javascript/TypeScript, React/Next.JS</tspan>
 <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Backend</tspan>: <tspan class="valueColor">Java, Python, C++</tspan>
 <tspan x="370" y="250" class="keyColor">Contact</tspan>:
