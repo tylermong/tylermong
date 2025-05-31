@@ -46,8 +46,8 @@ text, tspan {white-space: pre;}
 <tspan x="200" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 3 months, 3 days</tspan>
 <tspan x="200" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
 <tspan x="200" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
-<tspan x="200" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.99.3, IntelliJ IDEA 2025.1</tspan>
-<tspan x="200" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">HTML, CSS/Tailwind CSS, Javascript/TypeScript, React/Next.JS</tspan>
+<tspan x="200" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code 1.100.2, IntelliJ IDEA 2025.1.1.1 (Ultimate Edition)</tspan>
+<tspan x="200" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">HTML, CSS/Tailwind, Javascript/TypeScript, React/Next.JS</tspan>
 <tspan x="200" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Backend</tspan>: <tspan class="valueColor">Java, Python, C++</tspan>
 <tspan x="200" y="250" class="keyColor">Contact</tspan>:
 <tspan x="200" y="270">——————</tspan>
