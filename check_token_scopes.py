@@ -1,5 +1,8 @@
 import os
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def check_token_scopes():
     token = os.environ.get('ACCESS_TOKEN')
