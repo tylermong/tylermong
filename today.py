@@ -2,9 +2,12 @@ import datetime
 from dateutil import relativedelta
 import requests
 import os
+from dotenv import load_dotenv
 from xml.dom import minidom
 import time
 import hashlib
+
+load_dotenv()
 
 # Fine-grained personal access token with All Repositories access:
 # Account permissions: read:Followers, read:Starring, read:Watching
@@ -323,15 +326,15 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     svg = minidom.parse(filename)
     f = open(filename, mode='w', encoding='utf-8')
     tspan = svg.getElementsByTagName('tspan')
-    tspan[28].firstChild.data = age_data
-    tspan[50].firstChild.data = repo_data
-    tspan[52].firstChild.data = contrib_data
-    tspan[54].firstChild.data = commit_data
-    tspan[56].firstChild.data = loc_data[2]
-    tspan[57].firstChild.data = '+' + loc_data[0]
-    tspan[58].firstChild.data = '-' + loc_data[1]
-    tspan[60].firstChild.data = star_data
-    tspan[62].firstChild.data = follower_data
+    tspan[5].firstChild.data = age_data
+    tspan[27].firstChild.data = repo_data
+    tspan[29].firstChild.data = contrib_data
+    tspan[31].firstChild.data = commit_data
+    tspan[33].firstChild.data = loc_data[2]
+    tspan[34].firstChild.data = '+' + loc_data[0]
+    tspan[35].firstChild.data = '-' + loc_data[1]
+    tspan[37].firstChild.data = star_data
+    tspan[39].firstChild.data = follower_data
     f.write(svg.toxml('utf-8').decode('utf-8'))
     f.close()
 
