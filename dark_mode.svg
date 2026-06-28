@@ -14,7 +14,7 @@ text, tspan {white-space: pre;}
 <tspan x="20" y="30">tyler@mong</tspan>
 <tspan x="20" y="45">——————</tspan>
 <tspan x="20" y="60" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10/11, Arch Linux, Android 16 (One UI 8.0)</tspan>
-<tspan x="20" y="75" class="keyColor">Uptime</tspan>: <tspan class="valueColor">22 years, 3 months, 30 days</tspan>
+<tspan x="20" y="75" class="keyColor">Uptime</tspan>: <tspan class="valueColor">22 years, 4 months, 0 days</tspan>
 <tspan x="20" y="90" class="keyColor">Host</tspan>: <tspan class="valueColor">Stockton University</tspan>
 <tspan x="20" y="105" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
 <tspan x="20" y="120" class="keyColor">IDE</tspan>: <tspan class="valueColor">Visual Studio Code Insiders 1.109.0, IntelliJ IDEA Ultimate 2025.3.2 Preview</tspan>
@@ -33,9 +33,9 @@ text, tspan {white-space: pre;}
 
 <tspan x="20" y="330" class="keyColor">GitHub Stats</tspan>:
 <tspan x="20" y="345">——————</tspan>
-<tspan x="20" y="360" class="keyColor">Repositories</tspan>: <tspan class="valueColor">77</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">120</tspan>}
-<tspan x="20" y="375" class="keyColor">Commits:</tspan>: <tspan class="valueColor">6,225  </tspan>
-<tspan x="20" y="390" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">570,361</tspan> (<tspan class="addColor">+699,745</tspan>, <tspan class="delColor">-129,384</tspan>)
+<tspan x="20" y="360" class="keyColor">Repositories</tspan>: <tspan class="valueColor">78</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">121</tspan>}
+<tspan x="20" y="375" class="keyColor">Commits:</tspan>: <tspan class="valueColor">6,231  </tspan>
+<tspan x="20" y="390" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">575,765</tspan> (<tspan class="addColor">+707,567</tspan>, <tspan class="delColor">-131,802</tspan>)
 <tspan x="20" y="405" class="keyColor">Stars</tspan>: <tspan class="valueColor">9</tspan>
 <tspan x="20" y="420" class="keyColor">Followers</tspan>: <tspan class="valueColor">8   </tspan>
 </text>
